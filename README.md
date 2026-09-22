@@ -1,16 +1,23 @@
-## Hi there 👋
+# GetOmnichannel.com
 
-<!--
-**yashivtech/yashivtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We test and compare customer support, helpdesk, and omnichannel software so businesses don't have to guess.
 
-Here are some ideas to get you started:
+Every review is based on hands-on testing — real trial accounts, real screenshots, verified pricing. No pay-to-rank lists, no recycled marketing copy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Website:** [getomnichannel.com](https://getomnichannel.com)
+
+📊 **Browse by category:**
+- [VoIP & Phone Systems](https://getomnichannel.com/voip-phone-systems/best-voip-providers-2026/)
+- [Live Chat Software](https://getomnichannel.com/live-chat-software/best-live-chat-software/)
+- [SMS & Messaging Tools](https://getomnichannel.com/sms-messaging-tools/best-sms-messaging-software/)
+- [Helpdesk & Ticketing Software](https://getomnichannel.com/helpdesk-ticketing/best-helpdesk-ticketing-software/)
+- [Omnichannel Platforms](https://getomnichannel.com/omnichannel-platforms/best-omnichannel-communication-platforms/)
+- [Call Center Software](https://getomnichannel.com/call-center-software/best-call-center-software/)
+- [Video Conferencing](https://getomnichannel.com/video-conferencing/getomnichannel-best-video-conferencing/)
+- [Email Marketing Software](https://getomnichannel.com/email-marketing/best-email-marketing-software/)
+
+📩 **Contact:** hello@getomnichannel.com
+
+---
+
+*Independent software reviews for support, CX, and customer engagement teams.*
