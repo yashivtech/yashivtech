@@ -2,7 +2,7 @@
 
 We test and compare customer support, helpdesk, and omnichannel software so businesses don't have to guess.
 
-Every review is based on hands-on testing — real trial accounts, real screenshots, verified pricing. No pay-to-rank lists, no recycled marketing copy.
+Every review is based on hands-on testing — real trial accounts, real screenshots, verified pricing.
 
 🔗 **Website:** [getomnichannel.com](https://getomnichannel.com)
 
